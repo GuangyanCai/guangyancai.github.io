@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Guangyan Cai</title>
+    <link>http://guangyancai.github.io/publication/</link>
+      <atom:link href="http://guangyancai.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://guangyancai.github.io/img/me.jpg</url>
+      <title>Publications</title>
+      <link>http://guangyancai.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Analytic Spherical Harmonic Gradients for Real-Time Rendering with Many Polygonal Area Lights</title>
+      <link>http://guangyancai.github.io/publication/analytic-spherical-harmonic-gradients-for-real-time-rendering-with-many-polygonal-area-lights/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://guangyancai.github.io/publication/analytic-spherical-harmonic-gradients-for-real-time-rendering-with-many-polygonal-area-lights/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
