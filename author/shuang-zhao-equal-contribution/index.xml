@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuang Zhao (*equal contribution) | Guangyan Cai</title>
+    <link>http://guangyancai.github.io/author/shuang-zhao-equal-contribution/</link>
+      <atom:link href="http://guangyancai.github.io/author/shuang-zhao-equal-contribution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuang Zhao (*equal contribution)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://guangyancai.github.io/img/me.jpg</url>
+      <title>Shuang Zhao (*equal contribution)</title>
+      <link>http://guangyancai.github.io/author/shuang-zhao-equal-contribution/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable Time-Gated Rendering</title>
+      <link>http://guangyancai.github.io/publication/differentiable-time-gated-rendering/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://guangyancai.github.io/publication/differentiable-time-gated-rendering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
