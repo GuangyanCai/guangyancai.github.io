@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guangyan Cai</title>
+    <title>Guangyan Cai* | Guangyan Cai</title>
     <link>http://guangyancai.github.io/author/guangyan-cai/</link>
       <atom:link href="http://guangyancai.github.io/author/guangyan-cai/index.xml" rel="self" type="application/rss+xml" />
-    <description>Guangyan Cai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <description>Guangyan Cai*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://guangyancai.github.io/img/me.jpg</url>
-      <title>Guangyan Cai</title>
+      <title>Guangyan Cai*</title>
       <link>http://guangyancai.github.io/author/guangyan-cai/</link>
     </image>
     
     <item>
-      <title>Analytic Spherical Harmonic Gradients for Real-Time Rendering with Many Polygonal Area Lights</title>
-      <link>http://guangyancai.github.io/publication/analytic-spherical-harmonic-gradients-for-real-time-rendering-with-many-polygonal-area-lights/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://guangyancai.github.io/publication/analytic-spherical-harmonic-gradients-for-real-time-rendering-with-many-polygonal-area-lights/</guid>
+      <title>Differentiable Time-Gated Rendering</title>
+      <link>http://guangyancai.github.io/publication/differentiable-time-gated-rendering/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://guangyancai.github.io/publication/differentiable-time-gated-rendering/</guid>
       <description></description>
     </item>
     
